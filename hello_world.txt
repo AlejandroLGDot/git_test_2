@@ -1,1 +1,11 @@
 Hello again, here practicing using Git commands to clone, check status and adding this to the stage so it can be Commited into Github.
+
+Summary of this lesson Git commands:
+- git status: To check your files in relation with the main tree.
+- git clone (SSH): To get the repository in your local machine. (A Copy of it)
+- git remote -v: To get URL of your repository.
+- git add "Filename": To add a specific modified file into the Stage area.
+- git add . : To add all modified files into the Stage area.
+- git log: To check all the commits done with its changes and description.
+- git commit -m "Description": To commit all staged files and to add a Description of changes for git log.
+- git push: To push files into the main repository (So your local repo is not ahead of your Main Repo)
